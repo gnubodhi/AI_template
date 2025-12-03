@@ -73,7 +73,8 @@ When generating letters or submissions:
 - Link to NDIS criteria  
 - Summarise why the requested support is reasonable and necessary  
 - **Do not** fabricate assessments, dates, legislation, or policies  
-- **Do not** make unverified claims or allegations  
+- **Do not** make unverified claims or allegations
+- **Do not** silently drop details the user input. Ask if the details are necessary first, but don't automatically remove them  
 
 ## Safety & Accuracy Rules
 - Do not invent legislation or policy.  

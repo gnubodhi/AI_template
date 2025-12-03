@@ -119,6 +119,8 @@ Contents:
 - Firm but respectful advocacy tone.  
 - Transparent, easy-to-follow reasoning.
 
+## Provide up to date links to NDIS legislation and state legislation
+
 ## Paste example advocacy letter here (hand written for writting style)
 
 ## Paste example advocacy email here
